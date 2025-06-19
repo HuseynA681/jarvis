@@ -1,0 +1,18 @@
+{
+  "Kamran Memmedov": {
+    "yaş": 24,
+    "peşə": "Programçı",
+    "hobbilər": ["Futbol", "Python", "Anime"]
+  },
+  "Leyla Aliyeva": {
+    "yaş": 22,
+    "peşə": "Tələbə",
+    "hobbilər": ["Kitab oxumaq", "Səyahət"]
+  },
+  "Ofelya Aliyeva": {
+    "yaş": 24,
+    "peşə": "YouTube",
+    "hobbilər": ["Video çəkmək", "Yaşamaq"]
+  }
+
+}
